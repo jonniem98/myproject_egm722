@@ -1,0 +1,13 @@
+name: ni_project_egm722
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - os
+  - geopandas
+  - cartopy
+  - rasterio
+  - matplotlib.pyplot
+  - numpy
+  - shapely
+  
